@@ -36,7 +36,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
 // Clonar este repositorio:
  - git clone https://github.com/walnica/Walnica1/upload/main
 // Ingresar al proyecto
- - cd walnica
+ - cd wal
 
 // Instalar las dependencias necesarias:
  - pip install -r requirements.txt
