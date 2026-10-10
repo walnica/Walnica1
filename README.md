@@ -34,7 +34,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/walnica/Walnica1/upload/main
+ - git clone https://github.com/walnica/Walnica1/edit/main/README.md
 // Ingresar al proyecto
  - cd wal
 
